@@ -11,7 +11,7 @@
 ## Результаты
 
 1. 50/50% успешных/не успешных тестов
-2. Баг-репорт: https://github.com/kristinavenevtseva/java-2.1/issues
+2. Баг-репорт: https://github.com/kristinavenevtseva/java-2-1/issues/1
 
 ## Общие рекомендации
 
